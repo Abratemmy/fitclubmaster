@@ -39,6 +39,10 @@
 }
 .btn:hover{
   cursor: pointer;
+}      
+
+.add{
+  
 }
 .blur{
   background: rgba(253, 120, 43, 0.76);
